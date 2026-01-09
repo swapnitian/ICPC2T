@@ -50,7 +50,7 @@
                   onmouseover="this.stop();"
                   onmouseout="this.start();"
                 >
-                  CMT link for paper submission: <a href="https://cmt3.research.microsoft.com/ICPC2T2026" target="_blank" style="color: blue;">https://cmt3.research.microsoft.com/ICPC2T2026</a><br /><br />
+                  Registration Details: <a href="./Registration.docx" target="_blank" style="color: blue;">Click here for Registration Details</a><br /><br />
                   Paper Submission starts: 1<sup>st</sup> July, 2025<br /><br />
                   Deadline for Full Paper Submission: 30<sup>th</sup> November, 2025<br /><br />
                   Acceptance Notification: 31<sup>st</sup> December, 2025<br /><br />

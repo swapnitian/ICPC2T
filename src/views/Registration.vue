@@ -34,16 +34,16 @@
               </tr>
               <tr>
                 <td class="tg-x75h">
-                  <span class="table-head">INR(GST excluded)</span>
+                  <span class="table-head">INR(GST included)</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">USD (GST excluded)</span>
+                  <span class="table-head">USD (GST included)</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">INR(GST excluded)</span>
+                  <span class="table-head">INR(GST included)</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">USD (GST excluded)</span>
+                  <span class="table-head">USD (GST included)</span>
                 </td>
               </tr>
             </thead>
@@ -53,16 +53,16 @@
                   <span class="table-head">Student/Research Scholar</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">8000/-</span>
+                  <span class="table-col">9440/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$250</span>
+                  <span class="table-col">$295</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9000/-</span>
+                  <span class="table-col">10,620/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$300</span>
+                  <span class="table-col">$354</span>
                 </td>
               </tr>
               <tr>
@@ -70,16 +70,16 @@
                   <span class="table-head">Academician</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">8000/-</span>
+                  <span class="table-col">9440/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$250</span>
+                  <span class="table-col">$295</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9000/-</span>
+                  <span class="table-col">10,620/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$350</span>
+                  <span class="table-col">$413</span>
                 </td>
               </tr>
               <tr>
@@ -87,16 +87,16 @@
                   <span class="table-head">Industry</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9000/-</span>
+                  <span class="table-col">10,620/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$300</span>
+                  <span class="table-col">$354</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">10000/-</span>
+                  <span class="table-col">11,800/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$350</span>
+                  <span class="table-col">$413</span>
                 </td>
               </tr>
             </tbody>
@@ -109,8 +109,12 @@
         </p>
         <p class="article">
           <br />
+          After paying the registration fee fill this google form:
+          <br />
+          <a href="https://docs.google.com/forms/d/1pqh7fuePuKQqd3_-Sgdz2ny9Ku6YFBo8QaxKDnOKWv0/edit" target="_blank">https://docs.google.com/forms/d/1pqh7fuePuKQqd3_-Sgdz2ny9Ku6YFBo8QaxKDnOKWv0/edit</a>
+          <br /><br />
           <strong
-            >Good and Service Tax (GST) @ 18% excluded in the fee</strong
+            >Good and Service Tax (GST) @ 18% included in the fee</strong
           >
           <br />
           <strong>Participation:</strong>

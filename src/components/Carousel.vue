@@ -85,7 +85,7 @@
   <div class="marquee-content">
      <div class="marquee-item">
      
-    CMT link for paper submission: <a href="https://cmt3.research.microsoft.com/ICPC2T2026" target="_blank">https://cmt3.research.microsoft.com/ICPC2T2026</a>
+    Registration Details: <a href="./Registration.docx" target="_blank">Click here for Registration Details</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     Camera Ready Instructions for Participants: <a href="./template_acceptance.docx" target="_blank">Download camera ready instructions</a>
 

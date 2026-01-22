@@ -2,10 +2,7 @@
   <div id="carousel-main-div-for-spacing" class="position-relative">
     <!-- Carousel -->
     <div id="carousel-example-1z" class="carousel slide" data-ride="carousel">
-      <!-- Brochure Button -->
-      <div class="brochure-button">
-        <a href="./Brochure_new.pdf" id="btn" ><button class="btn btn-primary">Brochure</button></a>
-      </div>
+
 
       <!-- Arrows -->
       <a
